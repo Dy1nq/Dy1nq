@@ -11,9 +11,9 @@
 
 ### About Me
 
-- I'm an artist and a writer, and I hope to share my stories to you all one day.<br>
-- I mostly post art in my social media.<br>
-- I'm currently learning code.<br>
+- I'm an artist and writer, and I hope to share my stories with you all someday!<br>
+- I mostly post my artwork across my social media, where I share my characters, ideas, and other creative projects.<br>
+- I'm also currently learning code 😳<br>
 - My DM's are open, contact me on discord!<br>
   - @dy1nq_
 
@@ -63,7 +63,7 @@
   <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/birdperson%20sitting%20github%20bg.gif">
 </p>
 
-### 💬 SOCIALS
+### 💬 Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dy1nq_/ "Follow me!")
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://www.tiktok.com/@dy1nq_ "Let's be mutuals")
