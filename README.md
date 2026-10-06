@@ -23,14 +23,15 @@
 <summary>🛑 DNI LIST</summary>
   
 #### DO NOT INTERACT IF YOU ARE:
-- A proshipper
+- A **proshipper**
   - shipping Rickorty
   - shipping Estherdon
-- Homopohobic
-- Transphobic
-- Sexist
-- Racist
-- Ableist
+- **T.R.A.S.H**
+  - Transpohobic
+  - Racist
+  - Ableist
+  - Sexist
+  - Homophobic
 
 </details>
 
