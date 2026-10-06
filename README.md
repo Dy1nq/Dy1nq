@@ -72,7 +72,7 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 <p>
-  <img src="https://file.garden/ae-HTQfELjoYT3mm/Sona%20sleep.gif">
+  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/Sona%20sleep.gif">
   <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/rick%20booping.gif">
   <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/morty%20dance%20sit.gif">
   <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/birdperson%20sitting%20github%20bg.gif">
