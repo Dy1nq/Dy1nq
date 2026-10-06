@@ -5,6 +5,8 @@
 
 ⏵ **He/Him • Minor • 🇵🇭 Filipino • GMT+8** ⏴<br>
 
+⏵ **Sign my** [Atabook!](https://dy1nq.atabook.org/)
+
 > “Who wants to shake hands with a skeleton?„
 
 ***
@@ -57,13 +59,6 @@
 
 ***
 
-<p>
-  <img src="https://file.garden/ae-HTQfELjoYT3mm/Sona%20sleep.gif">
-  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/rick%20booping.gif">
-  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/morty%20dance%20sit.gif">
-  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/birdperson%20sitting%20github%20bg.gif">
-</p>
-
 ### 💬 Socials
 
 [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=reddit&logoColor=white)](https://www.reddit.com/user/Dy1nq_/ "Follow me!")
@@ -75,3 +70,10 @@
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white "dy1nq_")
 ![Krita](https://img.shields.io/badge/Krita-%23203759.svg?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
+
+<p>
+  <img src="https://file.garden/ae-HTQfELjoYT3mm/Sona%20sleep.gif">
+  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/rick%20booping.gif">
+  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/morty%20dance%20sit.gif">
+  <img src="https://file.garden/ae-HTQfELjoYT3mm/Pony%20Town/birdperson%20sitting%20github%20bg.gif">
+</p>
